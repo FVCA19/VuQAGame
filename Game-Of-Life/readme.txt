@@ -2,6 +2,7 @@ Convey's Game of Life
 Thể loại: 
 Game thiết kế hình họa
 Mô tả:
+Dựa theo ý tưởng của nhà toán học người Anh Conway vào năm 1970
 Đây là một trò chơi mà không có người chơi. Sự tiến hóa của trò chơi được xác định bởi trạng thái ban đầu, và không cần thêm đầu vào nữa.
 Cách chơi:
 Là mạng lưới các ô (tế bào) tạo nên một không gian hai chiều không giới hạn. Trạng thái của ô: sống hoặc chết. Mỗi tế bào sẽ tương tác với tám hàng xóm (tế bào liền kề).
