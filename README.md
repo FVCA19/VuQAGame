@@ -20,4 +20,6 @@ Trạng thái tiếp theo của ô được quyết định theo quy tắc:
 Mẫu ban đầu là mầm của hệ thống. Thế hệ đầu tiên được tạo ra bằng cách áo dụng luật trên cho tất cả mọi tế bào trong hạt giống. Sự sống và chết có thể xảy ra đồng thời, và mỗi một thế hệ mới được tạo ra là một hàm thuần túy của thế hệ trước đó.
 
 *Audio: https://www.chosic.com/download-audio/37439/ (Adrift Among Infinite Stars by Scott Buckley)
+
+
 *Ý tưởng game tham khảo từ: https://www.youtube.com/watch?v=daFYGrXq0aw&t=1839s (Conway's Game of Life tutorial in C++ & raylib - OOP)
